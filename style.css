@@ -5,23 +5,23 @@
 
 
 }
-/* This tag represents what happens to everything between the body opening and closing tags*/
+/* This tag styles what happens to everything between the body opening and closing tags*/
 body {
     background-color: #d9dcd6;
 }
-/* This is the header , it represents everything in the blue bar at the top*/
+/* This is the header , it styles everything in the blue bar at the top*/
 .header {
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/* This represents the actual words in the header*/
+/* This styles the actual words in the header*/
 .header h1 {
     display: inline-block;
     font-size: 38px;
 }
-/* This class was to represent the seo letters in HERISEON and change the color of only those letters*/
+/* This class was to styles the seo letters in HERISEON and change the color of only those letters*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -37,7 +37,7 @@ body {
 .header div ul {
     list-style-type: none;
 }
-/* The margin-left represents how far left the words will be in the header*/
+/* The margin-left styles how far left the words will be in the header*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -53,7 +53,7 @@ a {
 p {
     font-size: 16px;
 }
-/* The class hero represents the background image of the marketing meeting */
+/* The class hero styles the background image of the marketing meeting */
 .hero {
     height: 800px;
     width: 100%;
@@ -81,7 +81,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* This class represents the vertical side bar that list all the benefits of the company*/
+/* This class styles the vertical side bar that list all the benefits of the company*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -128,20 +128,20 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* These attributes style the brand awareness section of the benefits*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* These attributes style the cost management section of the benefits*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/* This section styles search engine optimization text section*/
 #seo {
     margin-bottom: 20px;
     padding: 50px;
@@ -150,7 +150,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* This section styles online reputation management text section*/
 #orm {
     margin-bottom:20px;
     padding:50px;
@@ -159,7 +159,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* This section styles social media marketing text section*/
 #smm {
     margin-bottom: 20px;
     padding: 50px;
@@ -168,41 +168,41 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* style the images of the 3 body sections */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* style the images of the 3 body sections */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* style the images of the 3 body sections */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* This styles the heading of the 3 main body sections*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This styles the heading of the 3 main body sections*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 30px;
 }
-
+/* This styles the heading of the 3 main body sections*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*This styles the bottom footer in a clar style.*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*This styles the words in the footer*/
 .footer h2 {
     font-size: 20px;
 }
