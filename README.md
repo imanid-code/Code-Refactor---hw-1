@@ -14,7 +14,7 @@ This marketing website is used to efficiently find the right customers for your 
 ![alt text] ()
 
 The Search Engine Optimization button will redirect you to the lower part of the webpage to further explain how to increase your visibility. 
- ![seo1] (/Users/imanirdillahunt/Documents/BootCamp20-21/Dev/Github/Homework/Week1/homework1/Screen Shot 2020-11-25 at 4.48.03 PM.png)
+ <img src="/Users/imanirdillahunt/Documents/BootCamp20-21/Dev/Github/Homework/Week1/homework1/Screen Shot 2020-11-25 at 4.48.03 PM.png"
  ![seo2] (/Users/imanirdillahunt/Documents/BootCamp20-21/Dev/Github/Homework/Week1/homework1/Screen Shot 2020-11-25 at 4.57.54 PM.png)
 
 The Online Reputation Management button will also redirects you to the lower part of the webpage to  further explain what customers see when they search your business.
