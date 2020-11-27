@@ -141,7 +141,7 @@ p {
     max-width: 150px;
 }
 
-/* This section styles search engine optimization text section*/
+/* This ID styles search engine optimization text section*/
 #seo {
     margin-bottom: 20px;
     padding: 50px;
@@ -150,7 +150,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* This section styles online reputation management text section*/
+/* This ID styles online reputation management text section*/
 #orm {
     margin-bottom:20px;
     padding:50px;
@@ -159,7 +159,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* This section styles social media marketing text section*/
+/* This ID styles social media marketing text section*/
 #smm {
     margin-bottom: 20px;
     padding: 50px;
