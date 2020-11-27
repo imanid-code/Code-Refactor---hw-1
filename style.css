@@ -5,7 +5,7 @@
 
 
 }
-
+/* This tag represents what happens to everything between the body opening and closing tags*/
 body {
     background-color: #d9dcd6;
 }
@@ -53,7 +53,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* The class hero represents the background image of the marketing meeting */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,7 +63,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* This class floats the picture left */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -139,7 +139,7 @@ p {
     max-width: 150px;
 }
 
-}
+
 #seo {
     margin-bottom: 20px;
     padding: 50px;
