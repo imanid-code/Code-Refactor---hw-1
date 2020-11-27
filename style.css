@@ -9,14 +9,14 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* This is the header , it represents everything in the blue bar at the top*/
 .header {
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* This represents the actual words in the header*/
 .header h1 {
     display: inline-block;
     font-size: 38px;
@@ -33,7 +33,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* No marker is shown in the unordered list*/
 .header div ul {
     list-style-type: none;
 }
