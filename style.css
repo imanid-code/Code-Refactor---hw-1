@@ -37,19 +37,19 @@ body {
 .header div ul {
     list-style-type: none;
 }
-
+/* The margin-left represents how far left the words will be in the header*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
     
 }
 
-
+/* All anchor elements will follow the attributes below*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* All paragraphs will follow the attributes inside the brackets*/
 p {
     font-size: 16px;
 }
