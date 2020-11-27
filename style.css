@@ -81,7 +81,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* This class represents the vertical side bar that list all the benefits of the company*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -92,37 +92,37 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* This section will use the  attributes to style  the lead generation section*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* This section will use the  attributes to style the brand awareness section*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* This section will use the attributes to style the cost management section*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* This header styles the "lead generation" heading in the benefits section*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* This header styles the "brand awareness" heading in the benefits section*/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* This header styles the "cost management" heading in the benefits section*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* These attributes style the leading generation section of the benefits*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
