@@ -57,8 +57,9 @@ p {
 .hero {
     height: 800px;
     width: 100%;
+    margin-top: 0;
     margin-right: 20px;
-    margin-bottom: 25px;
+    margin-bottom: 5px;
     background-image: url("/Users/imanirdillahunt/Downloads/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -69,11 +70,12 @@ p {
     margin-right: 25px;
 }
 
+/* This class floats the picture left */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* This class is where most of the words on the website are */
 .content {
     width: 75%;
     display: inline-block;
