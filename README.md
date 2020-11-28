@@ -2,6 +2,8 @@
 
 **HORISEON - Marketing Agency**
 
+**Installation**
+As a html website , only installations necessary is the link to the website.
 
 **Credits**
 
